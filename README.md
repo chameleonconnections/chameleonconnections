@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @chameleonconnections
-- 👀 I’m interested in building an application 
-- 🌱 I’m currently learning new things 
-- 💞️ I’m looking to collaborate on any unique projects 
+- 👀 I’m building an new application 
+- 💞️ I’m looking for collaborators to work with me on this project.
 - 📫 How to reach me barbaraackles@chameleonradio.com
 
 <!---
